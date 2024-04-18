@@ -1,4 +1,24 @@
-# YANG Android ADB ToolBox For PC
+<div align="center">
+    <h1>AndroidADBToolBox安卓ADB工具</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/UploadLocationEXE?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/UploadLocationEXE?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/UploadLocationEXE?logo=python&style=for-the-badge">
+<img src="https://github.com/JasonYANG170/UploadLocationEXE/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
+	
+这是一项基于MFC的安卓ADB工具软件
+
+<br>
+
+</div>
+
+## 🚧本项目已暂停维护  
+
+## 功能
+- ✅ ADB连接
+- ✅ ADB上传
+
+
+
 安卓设备PC控制台
 
 项目计划于2023年1月23日启动，
