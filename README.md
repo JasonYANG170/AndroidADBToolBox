@@ -2,10 +2,9 @@
 
 <div align="center">
     <h1>AndroidADBToolBox安卓ADB工具</h1>
-    <img src="https://img.shields.io/github/license/JasonYANG170/UploadLocationEXE?label=License&style=for-the-badge">
-    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/UploadLocationEXE?style=for-the-badge">
-<img src="https://img.shields.io/github/languages/count/JasonYANG170/UploadLocationEXE?logo=python&style=for-the-badge">
-<img src="https://github.com/JasonYANG170/UploadLocationEXE/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
+    <img src="https://img.shields.io/github/license/JasonYANG170/AndroidADBToolBox?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/AndroidADBToolBox?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/AndroidADBToolBox?logo=python&style=for-the-badge">
 	
 这是一项基于MFC的安卓ADB工具软件
 
@@ -36,4 +35,4 @@ Wear OS为底层的Watch手表
 Android TV OS为底层的TV电视、车机设备
 
 Windows11 PC系统的WSA虚拟机，所有Windows平台的Android模拟器
-# V1.5.0程序界面![屏幕截图(614)](https://user-images.githubusercontent.com/39414350/215436368-89a1892a-d8b6-4474-9b3c-0b5bab3e6fb8.png)
+# V1.5.0程序界面![屏幕截图(614)](docs/images/app-v1.5.0.png)
